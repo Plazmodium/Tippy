@@ -1,6 +1,6 @@
 const BILLAMT = document.querySelector("#billamt");
 const SERVICE_FEE = document.querySelector("#serviceQuality");
-const  CALLBTN = document.querySelector("#calculate");
+const CALLBTN = document.querySelector("#calculate");
 const PEOPLE = document.getElementById("peopleAtm");
 const TOTAL = document.getElementById("tip");
 
